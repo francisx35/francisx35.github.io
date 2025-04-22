@@ -1,4 +1,4 @@
-# francisx35.github.io
+
 # 📊 Francis Emenike – Data & Business Intelligence Portfolio
 
 Welcome to my portfolio! I use Excel, SQL, Power BI, and data storytelling to turn raw data into strategic insight.
